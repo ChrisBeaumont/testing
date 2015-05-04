@@ -1,1 +1,1 @@
-print "Old Master"
+print "New Master"
